@@ -79,7 +79,7 @@ export default class Header extends Component {
                   element="projects"
                 >
                   <a className="nav-link" href="#projects">
-                    Projects
+                    Services
                   </a>
                 </Scroll>
               </li>
