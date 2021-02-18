@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: '7N Website Design', // <title>
+  siteTitle: 'Seven North', // <title>
   manifestName: 'Seven North',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -21,7 +21,7 @@ module.exports = {
     {
       icon: 'fa-rebel',
       name: 'Ev\'s Folio',
-      url: 'http://www.everettyeaw.com',
+      url: 'https://www.everettyeaw.com',
     },
   ],
   email: 'everett@everettyeaw.com',
