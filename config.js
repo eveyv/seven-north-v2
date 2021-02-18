@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: '7N', // <title>
-  manifestName: 'Grayscale',
+  siteTitle: '7N Website Design', // <title>
+  manifestName: 'Seven North',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
