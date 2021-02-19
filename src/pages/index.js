@@ -49,7 +49,7 @@ const IndexPage = () => (
                 </p>
                 <i className="fa fa-arrow-down fa-2x mb-2 text-white"></i>
                 <p className="text-white mb-2">
-                  Ends with simple, beautiful, <strong>functional</strong> websites.
+                  Simple, beautiful, <strong>functional</strong> websites.
                 </p>
                 <i class="fa fa-cubes fa-4x text-white"></i>
              </ul>
