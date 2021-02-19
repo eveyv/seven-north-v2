@@ -47,7 +47,7 @@ const IndexPage = () => (
                 <p className="text-white mb-2">
                   Built with consideration for mobile-first.
                 </p>
-                <i className="fa fa-arrow-down fa-2x mb-2 text-white"></i>
+                <i className="fa fa-arrow-down fa-1x mb-2 text-white"></i>
                 <p className="text-white mb-2">
                   Simple, beautiful, <strong>functional</strong> websites.
                 </p>
