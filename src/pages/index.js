@@ -40,16 +40,18 @@ const IndexPage = () => (
             <h1 className="text-white mb-4">Responsive Web Solutions</h1>
               <ul className="left-align">
                 <p className="text-white mb-2">
-                  Simple, beautiful websites.
-                </p>
-                <i className="fa fa-cog fa-3x mb-2 text-white"></i>
-                <p className="text-white mb-2">
-                  Built mobile-friendly-first.
-                </p>
-                <i className="fa fa-cogs fa-3x mb-2 text-white"></i>
-                <p className="text-white mb-2">
+                <i className="fa fa-cogs fa-2x mb-2 text-white"></i><br/>
                   Flexible, modern frameworks and design practices.
                 </p>
+                <i className="fa fa-plus fa-1x mb-2 text-white"></i>
+                <p className="text-white mb-2">
+                  Built with consideration for mobile-first.
+                </p>
+                <i className="fa fa-arrow-down fa-2x mb-2 text-white"></i>
+                <p className="text-white mb-2">
+                  Ends with simple, beautiful, <strong>functional</strong> websites.
+                </p>
+                <i class="fa fa-cubes fa-4x text-white"></i>
              </ul>
           </div>
         </div>
