@@ -41,7 +41,7 @@ const IndexPage = () => (
               <ul className="left-align">
                 <p className="text-white mb-2">
                 <i className="fa fa-cogs fa-2x mb-2 text-white"></i><br/>
-                  Flexible, modern frameworks and design practices.
+                  Modern frameworks and technologies.
                 </p>
                 <i className="fa fa-plus fa-1x mb-2 text-white"></i>
                 <p className="text-white mb-2">
