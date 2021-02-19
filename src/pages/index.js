@@ -48,7 +48,7 @@ const IndexPage = () => (
                 </p>
                 <i className="fa fa-cogs fa-3x mb-2 text-white"></i>
                 <p className="text-white mb-2">
-                  Flexible modern frameworks and design practices.
+                  Flexible, modern frameworks and design practices.
                 </p>
              </ul>
           </div>
