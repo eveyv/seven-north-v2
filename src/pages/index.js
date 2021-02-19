@@ -20,7 +20,7 @@ const IndexPage = () => (
     <header className="masthead">
       <div className="container d-flex h-100 align-items-center">
         <div className="mx-auto text-center">
-          <h1 className="mx-auto my-0 text-uppercase">{config.heading}</h1>
+          <h1 type="id" element="tippy" className="mx-auto my-0 text-uppercase">{config.heading}</h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5" element="tippy">
             {config.subHeading}
           </h2>
@@ -37,7 +37,20 @@ const IndexPage = () => (
       <div className="container">
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <h2 className="text-white mb-4">We offer responsive website solutions. Let us know what you need and we will engineer the website or application to your specs.</h2>
+            <h1 className="text-white mb-4">Responsive Web Solutions</h1>
+              <ul className="left-align">
+                <p className="text-white mb-2">
+                  Simple, beautiful websites.
+                </p>
+                <i className="fa fa-cog fa-3x mb-2 text-white"></i>
+                <p className="text-white mb-2">
+                  Built mobile-friendly-first.
+                </p>
+                <i className="fa fa-cogs fa-3x mb-2 text-white"></i>
+                <p className="text-white mb-2">
+                  Flexible modern frameworks and design practices.
+                </p>
+             </ul>
           </div>
         </div>
       </div>
@@ -52,7 +65,7 @@ const IndexPage = () => (
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
               <h4>Website Design</h4>
-              <p className="text-black-50 mb-0">
+                <p className="text-black-50 mb-0">
                   We can work with you to make a custom web solution that will do exactly what you need for your business.
               </p>
             </div>
