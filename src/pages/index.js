@@ -37,7 +37,7 @@ const IndexPage = () => (
       <div className="container">
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <h1 className="text-white mb-4">Responsive Web Solutions</h1>
+            <h1 className="text-white mb-4">Our Methodology: </h1>
               <ul className="left-align">
                 <p className="text-white mb-2">
                 <i className="fa fa-cogs fa-2x mb-2 text-white"></i><br/>
