@@ -24,7 +24,7 @@ module.exports = {
       url: 'https://www.everettyeaw.com',
     },
   ],
-  email: 'everett@everettyeaw.com',
+  email: 'admin@sevennorthdesign.com',
   phone: '207-802-8097',
   address: 'Maine Highlands, USA',
 };
