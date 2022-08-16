@@ -39,17 +39,18 @@ const IndexPage = () => (
           <div className="col-lg-8 mx-auto">
             <h1 className="text-white mb-4">Our Methodology: </h1>
               <ul className="left-align">
-                <p className="text-white mb-2">
-                <i className="fa fa-cogs fa-2x mb-2 text-white"></i><br/>
+              <i className="fa fa-cogs fa-2x mb-2 text-white"></i><br/>
+                <p className="text-white mb-2 lineup">
+                
                   Modern frameworks and technologies.
                 </p>
                 <i className="fa fa-plus fa-1x mb-2 text-white"></i>
-                <p className="text-white mb-2">
-                  Built with consideration for mobile-first.
+                <p className="text-white mb-2 lineup">
+                  Built with attention to mobile UI
                 </p>
                 <i className="fa fa-arrow-down fa-2x mb-2 text-white"></i>
-                <p className="text-white mb-2">
-                  Simple, beautiful, <strong>functional</strong> websites.
+                <p className="text-white mb-2 lineup">
+                  Simple, beautiful, and <strong>functional</strong> websites.
                 </p>
                 <i class="fa fa-cubes fa-4x text-white"></i>
              </ul>
@@ -66,9 +67,11 @@ const IndexPage = () => (
           </div>
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
-              <h4>Website Design</h4>
+              <h4>Application Services</h4>
                 <p className="text-black-50 mb-0">
-                  We can work with you to make a custom web solution that will do exactly what you need for your business.
+                 From websites to applications, we can leverage a variety of technologies in order to solve real problems that affect your 
+                 day-to-day. If you need to track data more accurately, expand your services online, or have anything else we may be able to assist 
+                 with, don't hesitate to reach out.
               </p>
             </div>
           </div>
@@ -84,7 +87,7 @@ const IndexPage = () => (
                 <div className="project-text w-100 my-auto text-center text-lg-left">
                   <h4 className="text-white">Website Maintenence + Content Management</h4>
                   <p className="mb-0 text-white-50">
-                    We offer an array of services ranging from routine maintenence to content creation.
+                    From CMS creation and management to blog posts and SEO, we can work with you to streamline and modernize your online presence. 
                   </p>
                   <hr className="d-none d-lg-block mb-0 ml-0" />
                 </div>
@@ -101,10 +104,9 @@ const IndexPage = () => (
             <div className="bg-black text-center h-100 project">
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 className="text-white">SEO Services and Logo Design</h4>
+                  <h4 className="text-white">Logo and Custom Design Work</h4>
                   <p className="mb-0 text-white-50">
-                    We work to implement a minimum level of SEO optimization on all our websites.  We can work with
-                    you to create a custom plan if you need a more competitive and refined reach in advertising your website.
+                    Let us know what you're looking for and one of our amazing graphic designers will work with you to make it real. 
                   </p>
                   <hr className="d-none d-lg-block mb-0 mr-0" />
                 </div>
