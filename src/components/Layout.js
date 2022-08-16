@@ -28,15 +28,7 @@ class Layout extends Component {
                 { name: 'keywords', content: 'site, web' },
               ]}
             >
-              <html lang="en" />
-              <script async src="https://www.googletagmanager.com/gtag/js?id=G-8BYJ7V1387"></script>
-              <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-
-                gtag('config', 'G-8BYJ7V1387');
-              </script>
+            <html lang="en" />
             </Helmet>
             <div className={'page-top'}>{children}</div>
           </>
