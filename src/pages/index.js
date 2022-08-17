@@ -41,7 +41,6 @@ const IndexPage = () => (
               <ul className="left-align">
               <i className="fa fa-cogs fa-2x mb-2 text-white"></i><br/>
                 <p className="text-white mb-2 lineup">
-                
                   Modern frameworks and technologies.
                 </p>
                 <i className="fa fa-plus fa-1x mb-2 text-white"></i>
@@ -116,6 +115,7 @@ const IndexPage = () => (
         </div>
       </div>
     </section>
+    
 
     <Subscribe />
 
