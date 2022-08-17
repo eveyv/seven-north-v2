@@ -86,7 +86,7 @@ const IndexPage = () => (
                 <div className="project-text w-100 my-auto text-center text-lg-left">
                   <h4 className="text-white">Website Maintenence + Content Management</h4>
                   <p className="mb-0 text-white-50">
-                    From CMS creation and management to blog posts and SEO, we can work with you to streamline and modernize your online presence. 
+                    From CMS development and management to blog posts and SEO, we can work with you to streamline and modernize your online presence. 
                   </p>
                   <hr className="d-none d-lg-block mb-0 ml-0" />
                 </div>
