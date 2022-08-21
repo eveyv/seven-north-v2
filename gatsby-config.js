@@ -9,9 +9,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-237617161-1",
+        trackingId: "G-8BYJ7V13871",
         head: true,
-        body: false,
+        body: true,
         exclude: ["/preview/**", "/do-not-track/me/too/"],
         pageTransitionDelay: 0,
         experimentId: "0",
